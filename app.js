@@ -48,6 +48,7 @@ const app = Vue.createApp({
       } else {
         this.playerHealth += healValue;
       }
+      // vmofom
       this.attackPlayer();
     },
   },
